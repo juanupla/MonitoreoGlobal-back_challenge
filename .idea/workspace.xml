@@ -5,6 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee7495f2-37ef-4f98-a90c-35345800fc75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Configs/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/DTOs/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Entities/AlertEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Entities/PlantEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Entities/SensorEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Entities/TypeAlertEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Entities/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Repositories/AlertRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Repositories/PlantRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Repositories/SensorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techforb/challenge/Repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +27,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2qAuDN30j0VLcXkAhC9hawn2ZBO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,13 +50,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.MonitoreoGlobal-back_challenge [clean].executor": "Run",
+    "Maven.MonitoreoGlobal-back_challenge [package].executor": "Run",
+    "Maven.MonitoreoGlobal-back_challenge [verify].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/EscritorioCremona/Proyectos-Java/BTCUSDT_bot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.techforb.challenge.Configs" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,7 +92,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734117582258</updated>
-      <workItem from="1734117583233" duration="2000" />
+      <workItem from="1734117583233" duration="1323000" />
+      <workItem from="1734118986612" duration="227000" />
+      <workItem from="1734119220725" duration="12491000" />
     </task>
     <servers />
   </component>
