@@ -26,6 +26,9 @@ public class UserEntity {
     @Column(nullable = false)
     private String name;
 
+    @Column(nullable = false)
+    private String lastName;
+
     private String avatar;
 
     @CreationTimestamp
